@@ -1,0 +1,48 @@
+/*!
+ * Start Bootstrap - The Big Picture HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+body {
+	margin-top: 0;
+	margin-bottom: 0;
+	background: none;
+	color: 0D88FF;
+	font-family:Georgia;
+}
+
+.full {
+  background: url(../snow.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+element.style {
+}
+.starter-template {
+padding: 60px 15px;
+text-align: center;
+}
+table {
+    width: 100%;
+}
+a {
+text-decoration: none;
+}
+a:link {
+color: #0000FF;
+/*border-bottom: 1px solid #0000FF;*/
+}
+/*a:visited {
+color: #0000FF;
+border-bottom: 1px solid #C0C0C0;
+}*/
+a:active {
+color: #FF0000;
+/*border-bottom: 1px dashed #FF0000;*/
+}
+/*a:hover {
+color: #000000;
+border-bottom: 2px dashed #DD0000;
+}*/
